@@ -1,0 +1,6 @@
+{
+  "name": "Kilimo Marketplace",
+  "description": "A high-performance cereal and spice dual-marketplace for Kenyan farmers and buyers, featuring voice-note listings, offline-first sync, M-Pesa escrow payments, and an interactive USSD gateway simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
